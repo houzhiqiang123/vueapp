@@ -1,5 +1,5 @@
 <template>
-    <h1>movie</h1>
+    <h1>movie测试 </h1>
 </template>
 
 <script>
